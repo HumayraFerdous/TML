@@ -1,3 +1,3 @@
 # TML
 
-Trojan Detection using various Machine Learning algorithms
+Network Traffic Trojan Detection(Binary classification) using various Machine Learning algorithms.
